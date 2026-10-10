@@ -1,2 +1,2 @@
 # postal.github.io
-rclone google-drive syn
+rclone google-drive sync
